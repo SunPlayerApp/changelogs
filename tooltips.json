@@ -1,0 +1,21 @@
+{
+  "notification": {
+   "id": "notification_001",
+    "type": "notification",
+    "show": true,
+    "title": "Thông báo",
+    "contents": "Nội dung thông báo...",
+    "url": "https://apps.apple.com/app/sunplayer",
+    "btn_title": "OK"
+  },
+  "releaseupdate": {
+    "type": "releaseupdate",
+    "show": true,
+    "title": "Có phiên bản mới!",
+    "contents": "Vui lòng cập nhật...",
+    "build_version": 2,
+    "url": "https://apps.apple.com/app/sunplayer",
+    "btn_title": "Update Now",
+    "force_update": false
+  }
+}
