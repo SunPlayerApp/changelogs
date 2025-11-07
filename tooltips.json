@@ -13,7 +13,7 @@
     "show": true,
     "title": "Có phiên bản mới!",
     "contents": "Vui lòng cập nhật...",
-    "build_version": 3,
+    "build_version": 32,
     "url": "https://apps.apple.com/app/sunplayer",
     "btn_title": "Update Now",
     "force_update": false
