@@ -11,10 +11,10 @@
   "releaseupdate": {
     "type": "releaseupdate",
     "show": true,
-    "title": "Có phiên bản mới!",
-    "contents": "Vui lòng cập nhật...",
+    "title": "New Version available!",
+    "contents": "Please update app now",
     "build_version": 31,
-    "url": "https://apps.apple.com/app/sunplayer",
+    "url": "https://apps.apple.com/us/app/sunplay-simple-playback/id6752605951",
     "btn_title": "Update Now",
     "force_update": false
   }
