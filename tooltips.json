@@ -3,10 +3,10 @@
    "id": "notification_001",
     "type": "notification",
     "show": true,
-    "title": "Thông báo",
-    "contents": "Nội dung thông báo...",
+    "title": "Announcement",
+    "contents": "Please check the website",
     "url": "https://apps.apple.com/app/sunplayer",
-    "btn_title": "OK"
+    "btn_title": "Visit"
   },
   "releaseupdate": {
     "type": "releaseupdate",
