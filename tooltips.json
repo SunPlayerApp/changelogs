@@ -2,7 +2,7 @@
   "notification": {
    "id": "notification_001",
     "type": "notification",
-    "show": true,
+    "show": false,
     "title": "Announcement",
     "contents": "Please check the website",
     "url": "https://apps.apple.com/app/sunplayer",
